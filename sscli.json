@@ -1,12 +1,12 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.4",
     "description": "Agent-friendly token efficient SQL Server CLI tool for database inspection",
     "homepage": "https://github.com/jwcraig/sql-server-cli",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jwcraig/sql-server-cli/releases/download/v0.1.2/sscli-x86_64-pc-windows-msvc.zip",
-            "hash": "095e3e5ee1e000aef49504120de85821c47322563022911e00d75ec01cad48ea"
+            "url": "https://github.com/jwcraig/sql-server-cli/releases/download/v0.1.4/sscli-x86_64-pc-windows-msvc.zip",
+            "hash": "158a46ca9c1698be536fff7f8fa7221be3fb7c87049945afaa615afef83941fc"
         }
     },
     "bin": "sscli.exe",
